@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/reservation/static/js/main.680f625e.js",
+    "main.js": "/reservation/static/js/main.d4b8a814.js",
     "index.html": "/reservation/index.html",
-    "main.680f625e.js.map": "/reservation/static/js/main.680f625e.js.map"
+    "main.d4b8a814.js.map": "/reservation/static/js/main.d4b8a814.js.map"
   },
   "entrypoints": [
-    "static/js/main.680f625e.js"
+    "static/js/main.d4b8a814.js"
   ]
 }
